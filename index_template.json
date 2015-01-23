@@ -1,0 +1,9 @@
+{
+   "order": 100,
+   "template": "esbench*",
+   "settings": {
+      "index.refresh_interval": "60s",
+      "index.number_of_replicas": "1",
+      "index.number_of_shards": "5"
+   }
+}
